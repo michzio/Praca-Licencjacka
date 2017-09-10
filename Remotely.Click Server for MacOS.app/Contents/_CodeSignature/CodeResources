@@ -6,51 +6,51 @@
 	<dict>
 		<key>Resources/Assets.car</key>
 		<data>
-		jmMtDXV7Xrxu3i3augYotPPa1mY=
+		X1t+REknlhvbJUUrqbl2hZPMVxA=
 		</data>
 		<key>Resources/Base.lproj/Main.storyboardc/7FL-B7-db8-view-15B-rL-z18.nib</key>
 		<data>
-		zHKZFTon9W6CikM0JxgeVCl+VFo=
+		rVANu7mJ+TlHgKy6/gQwOWoYxFw=
 		</data>
 		<key>Resources/Base.lproj/Main.storyboardc/7Vw-gp-Bgb-view-Gj9-eq-nyh.nib</key>
 		<data>
-		JM9s7pwyElPmae/s4cOxxMt3tG8=
+		tatKcJWX/AoL+NOQoG61X55KrZU=
 		</data>
 		<key>Resources/Base.lproj/Main.storyboardc/8od-mV-2T3-view-v7S-Ar-x2J.nib</key>
 		<data>
-		IoEz1PMR+evp3anRXk+mvbVcaCk=
+		X8l01RBC4WKGOaRnr/PUVdY2qTA=
 		</data>
 		<key>Resources/Base.lproj/Main.storyboardc/Connected Devices Window.nib</key>
 		<data>
-		k1ydnfnj9yBy86KMbuKwEyn50t4=
+		wpLUTLd3K+5OubL9Lor/NjtaRdc=
 		</data>
 		<key>Resources/Base.lproj/Main.storyboardc/Info.plist</key>
 		<data>
-		NiGbPlN/YWvUM6bWKObkkT1S/P4=
+		Q9mc0nMrp+VYqn+aok+94fdNDF0=
 		</data>
 		<key>Resources/Base.lproj/Main.storyboardc/MainMenu.nib</key>
 		<data>
-		zrwfdJLGFZvn125waLaKo/bEAo4=
+		7OI+uWS7FhWvPKjiHta3FDicyvU=
 		</data>
 		<key>Resources/Base.lproj/Main.storyboardc/NSWindowController-eKy-Mj-0oj.nib</key>
 		<data>
-		iCzw7dBzi+nhNUZkbQHeArJ1rs8=
+		S9sFrgBTMtvzc9ade/ZrEE+n8ZY=
 		</data>
 		<key>Resources/Base.lproj/Main.storyboardc/NSWindowController-mqG-DA-3d1.nib</key>
 		<data>
-		5jPD1eq/ytioeSC0A1ubjMevqBk=
+		PkbW58qQV4UKh3cAGW7XtsGAWQ8=
 		</data>
 		<key>Resources/Base.lproj/Main.storyboardc/Toi-5N-275-view-XJA-BE-7Ap.nib</key>
 		<data>
-		X91NGPsRLeVztCB2PAs1g6GK5C4=
+		xBxkNqNlC/JuDGFwgVvbDrP6Ync=
 		</data>
 		<key>Resources/Base.lproj/Main.storyboardc/XfG-lQ-9wD-view-m2S-Jp-Qdl.nib</key>
 		<data>
-		Gbm4/8d9yQAM7QUkSFEwTpE/OhA=
+		fv+SO7HozwBlV3mExBsSeJblRUg=
 		</data>
 		<key>Resources/Base.lproj/Main.storyboardc/w1i-bd-2m6-view-RNi-He-KYf.nib</key>
 		<data>
-		wn3pK+ZuYhMB4F9cPcYZknc4A1g=
+		HEFH5wEb50mCRRSQK1Vzejx7Tck=
 		</data>
 		<key>Resources/ServerStatusMenuItemView.nib</key>
 		<data>
@@ -183,7 +183,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			8eydUXQLBf8d4MwiY63PqcJQF5U=
+			zcwORU3VtqOxUKld+FmPh0MOinY=
 			</data>
 			<key>requirement</key>
 			<string>anchor apple generic and identifier "click.remotely.Remotely-Click-Server-Launcher" and (certificate leaf[field.1.2.840.113635.100.6.1.9] /* exists */ or certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = HPA39TCVSP)</string>
@@ -192,182 +192,182 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			f7j8F2WO38PlpimeNG3vIHf4r+l4Hp+vuonCjCr3Zho=
+			E4Kj6jJu3/2ZfF5A8u8bquW2j7RWszI8GcOW9wrJTPs=
 			</data>
 		</dict>
 		<key>Library/RemoteControllerAPI_Server/libcocoa_helper.dylib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			JOoQugo4tVeyRqPXsEPUue6MtTNBJo0SnqxNqmEJCcM=
+			09xOnuqFfByjQoYg5tgcDvpSXByPYpX1vUgzaek2K5Q=
 			</data>
 		</dict>
 		<key>Library/RemoteControllerAPI_Server/libcollections.dylib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			201vvgjVp7KdNoo8/nN/kSzH2E4aRRF7pIFfaoP67po=
+			VATe1oMkasVsDv5Sa9wnRKL6bGBlcDLbrfnd8TKNg14=
 			</data>
 		</dict>
 		<key>Library/RemoteControllerAPI_Server/libcommon_functions.dylib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Zy9CiFUnF5S/toTM0XHbXKRhUqYgXE8g7MNUNGVH0WA=
+			//dp0BXde9y9JOmGOdSOp4jZySPpY288E5cp42oFpgo=
 			</data>
 		</dict>
 		<key>Library/RemoteControllerAPI_Server/libcomparers.dylib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			t4y4sizn9iLtdyfZaFrI6RTE9Q6WfkSGxE6uE6VrUgM=
+			xoZBD24xvN5ITz6dm/S7CIC1Q2AKM9XJx0Tdrv+FdC8=
 			</data>
 		</dict>
 		<key>Library/RemoteControllerAPI_Server/libconcurrency.dylib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			WJXfh/jVeWz4eC6GHWE6079kkt5aVCCdPjvMlkBxKkQ=
+			SyhOqNFz1DF6mXtMJCH77mkhGo+77k4yHCYoKvDQ/v8=
 			</data>
 		</dict>
 		<key>Library/RemoteControllerAPI_Server/libkeyboard_events.dylib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			18qGhmQFkRChZX6b117oQzyqZoj6rRpdzD99loZoqsc=
+			5dIjao/+jjPEenQUBLLGeSV1y+TQPNVc/NyRaICCdzg=
 			</data>
 		</dict>
 		<key>Library/RemoteControllerAPI_Server/liblibpng.dylib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			fBglzAWMpc57t4Vhr5KoUSDL1EEKE1qViifGhcB0xKM=
+			THM8/O9GbviIfxBqUNhkpjz9SNuPJ70bimZHEf36w38=
 			</data>
 		</dict>
 		<key>Library/RemoteControllerAPI_Server/libmouse_events.dylib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			qC3lY+Ek7blM29uFyh/xsbhIWFHNBlzoBeJUXVyLnHo=
+			N0OV7hz0Thjc6M9wKXcLZPAlycndfYUawDd+nENmeMk=
 			</data>
 		</dict>
 		<key>Library/RemoteControllerAPI_Server/libnetworking.dylib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			0W60OI+T0iTQM0hY9oNT/CyRtnt4I9Z173Nk1JXLce8=
+			jptybW+Dpyo1jyNrkQYh3ETUsISsFLdB2HGQIHOW1CU=
 			</data>
 		</dict>
 		<key>Library/RemoteControllerAPI_Server/libnsd.dylib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			MYqbXuL506WQWpU5O/BuU0xMsLodJF25itoUWcvLg3o=
+			8/bOzSn79BACn6fqojVPMHZbLbQpnNtkwdRKNmi+2aE=
 			</data>
 		</dict>
 		<key>Library/RemoteControllerAPI_Server/librc_server.dylib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			x0W7hvy26WAEmcYTgYJKzezFcixGs8RxQ2jhkznJSw8=
+			nX+emYIfWPY04xKVfhDORhhMjQF/4WsGFsPkm4Wjf8s=
 			</data>
 		</dict>
 		<key>Library/RemoteControllerAPI_Server/libunit_tests.dylib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			0GYNPhcqbSrNMO/ghn5XRhQb7lIZT4EKryUoF57qBhY=
+			lcV2dOwSnnfkn/eij3SfucLiq0W+lStiDpg6VHvJ+bg=
 			</data>
 		</dict>
 		<key>Library/RemoteControllerAPI_Server/libzlib.dylib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			jAwm8Rdheyz1qFUp3byrHPPdIZZK1EPvomymq47gQ3Q=
+			eKngBe+43Zk7qhNSCY7dmUIJr48FN9mLJ/uvNWEUxHs=
 			</data>
 		</dict>
 		<key>Resources/Assets.car</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			42G4A+kGyBlOzT4L7l7RbFRqRf+wiWrYAEecloJJzZM=
+			dtpo2jXPgz3qfKyLVbqoDG2iIwF5TjCzdLuK4zqbC20=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/Main.storyboardc/7FL-B7-db8-view-15B-rL-z18.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			qm1uGJ5Bl1hrw6iw+vdCNgCsVQAW3gxmtV8k2aza5jU=
+			oszTthPFL4DmqDliVMD+bBIq1kPHo47J2gi/6BDy0/s=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/Main.storyboardc/7Vw-gp-Bgb-view-Gj9-eq-nyh.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			W53uveT2vN6zvOwGplgzydadoIqp1bjt+lhV/0mHrI8=
+			h0M3QoGidU6YlBDJ8/o3rqLtVeO+D0zJwAjzzSdi/OA=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/Main.storyboardc/8od-mV-2T3-view-v7S-Ar-x2J.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			sUrrBEVFFlaZUHIfzB60ijQPAkH7YmpXf9MWJ1geTME=
+			39QL944OCecVK96Aq6Hj0pAA0zqw2U1jdu2mCnKAvTo=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/Main.storyboardc/Connected Devices Window.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			tgqIdnntdUTqOlThiYLvWnuxox3lr7wo4FyEI7Xr/fs=
+			KimfQwzyAXokcK3BvGYOdNBm8h12OnLEssj6CvCPz0s=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/Main.storyboardc/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			HhMg91OQBo/h0eyViEVek4x0GtNn68bZwQba9hsteVQ=
+			crJxpjMzzBEtW8VTT7ArxUr3+7yLDDZ3tSggYcJW9rs=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/Main.storyboardc/MainMenu.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			CdPSFhhmLrNKLkbycglSaFm3awK8zHNnthqK2c2EVjI=
+			96g8Kffyx+j8OMVxxL2hVorqOkd3ukNUoYX01Oy+Inc=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/Main.storyboardc/NSWindowController-eKy-Mj-0oj.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			NREmBR/d7g3DRrpJKEsLkgi2s7NKBodJzG4Pid+bCiA=
+			93nUGLlSPJGQqCMN8/gwaRL03CMImgpBeZJEhU1EtQQ=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/Main.storyboardc/NSWindowController-mqG-DA-3d1.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			77vBENaW/AXiRJzgGmGsE/41YR5Bt0/TGaODMyJjz9E=
+			H0Q1zvU9hRld+cT141VKwWyJvjsbucVsBKfthNR461Y=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/Main.storyboardc/Toi-5N-275-view-XJA-BE-7Ap.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			uP5YSw8PTmBr1rvORkUrEzc6VQNjDRul5kPOqJPXLBo=
+			sXFbp/9Ci856QIlEyH3YKzi4SMOWTAo6DabEAgkYD8c=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/Main.storyboardc/XfG-lQ-9wD-view-m2S-Jp-Qdl.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			70vc+amwdkLYBOmkQ4lUVUWXIJ80XST3YqDVkZlxj6U=
+			NJZs3Qas+iBlZdbHBjzUZtW68uaOidQ779GT2FqrimE=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/Main.storyboardc/w1i-bd-2m6-view-RNi-He-KYf.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			4FyZN1zaaQJFjmktou2F/Mios3K1PSD768PpfcnTLPc=
+			DHu3SVPf0DrLh97Wz0ESJi1hnUE4dithSzsRGeh9OUE=
 			</data>
 		</dict>
 		<key>Resources/ServerStatusMenuItemView.nib</key>

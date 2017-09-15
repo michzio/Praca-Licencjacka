@@ -129,7 +129,7 @@
 			<key>key_code</key>
 			<integer>3</integer>
 			<key>modifier_flags</key>
-			<real>1048576</real>
+			<integer>1048576</integer>
 		</dict>
 		<key>Flip Player</key>
 		<dict>
@@ -154,73 +154,80 @@
 		</dict>
 	</dict>
 	<key>PlayerFullScreenHotKeys</key>
-    	<dict>
-    		<key>VLC</key>
-            <dict>
-         		<key>key_code</key>
-           		<integer>3</integer>
-           		<key>modifier_flags</key>
-        		<real>1048576</real>
-            </dict>
-            <key>Flip Player</key>
-            <dict>
-              	<key>key_code</key>
-                <integer>3</integer>
-                <key>modifier_flags</key>
-                <real>1048576</real>
-           </dict>
-           	<key>Safari</key>
-            		<dict>
-            			<key>key_code</key>
-            			<integer>3</integer>
-            			<key>modifier_flags</key>
-            			<integer>0</integer>
-            		</dict>
-            		<key>Opera</key>
-            		<dict>
-            			<key>key_code</key>
-            			<integer>3</integer>
-            			<key>modifier_flags</key>
-            			<real>0</real>
-            		</dict>
-            		<key>Google Chrome</key>
-            		<dict>
-            			<key>key_code</key>
-            			<integer>3</integer>
-            			<key>modifier_flags</key>
-            			<real>0</real>
-            		</dict>
-            <key>Default Application</key>
-            <dict>
-            	<key>key_code</key>
-            	<integer>3</integer>
-            	<key>modifier_flags</key>
-            	<integer>1310720</integer>
-            </dict>
-    	</dict>
+	<dict>
+		<key>VLC</key>
+		<dict>
+			<key>key_code</key>
+			<integer>3</integer>
+			<key>modifier_flags</key>
+			<real>1048576</real>
+		</dict>
+		<key>Flip Player</key>
+		<dict>
+			<key>key_code</key>
+			<integer>3</integer>
+			<key>modifier_flags</key>
+			<real>1048576</real>
+		</dict>
+		<key>Safari</key>
+		<dict>
+			<key>key_code</key>
+			<integer>3</integer>
+			<key>modifier_flags</key>
+			<integer>0</integer>
+		</dict>
+		<key>Opera</key>
+		<dict>
+			<key>key_code</key>
+			<integer>3</integer>
+			<key>modifier_flags</key>
+			<real>0</real>
+		</dict>
+		<key>Google Chrome</key>
+		<dict>
+			<key>key_code</key>
+			<integer>3</integer>
+			<key>modifier_flags</key>
+			<real>0</real>
+		</dict>
+		<key>Default Application</key>
+		<dict>
+			<key>key_code</key>
+			<integer>3</integer>
+			<key>modifier_flags</key>
+			<integer>1310720</integer>
+		</dict>
+	</dict>
 	<key>PlayerPlayHotKeys</key>
 	<dict>
-	    <key>Safari</key>
-                    		<dict>
-                    			<key>key_code</key>
-                    			<integer>40</integer>
-                    			<key>modifier_flags</key>
-                    			<integer>0</integer>
-                    		</dict>
-                    		<key>Opera</key>
-                    		<dict>
-                    			<key>key_code</key>
-                    			<integer>40</integer>
-                    			<key>modifier_flags</key>
-                    			<real>0</real>
-                    		</dict>
-                    		<key>Google Chrome</key>
-                    		<dict>
-                    			<key>key_code</key>
-                    			<integer>40</integer>
-                    			<key>modifier_flags</key>
-                    			<real>0</real>
-                    		</dict>
+		<key>VLC</key>
+		<dict>
+			<key>key_code</key>
+			<integer>35</integer>
+			<key>modifier_flags</key>
+			<real>1048576</real>
+		</dict>
+		<key>Safari</key>
+		<dict>
+			<key>key_code</key>
+			<integer>40</integer>
+			<key>modifier_flags</key>
+			<integer>0</integer>
+		</dict>
+		<key>Opera</key>
+		<dict>
+			<key>key_code</key>
+			<integer>40</integer>
+			<key>modifier_flags</key>
+			<real>0</real>
+		</dict>
+		<key>Google Chrome</key>
+		<dict>
+			<key>key_code</key>
+			<integer>40</integer>
+			<key>modifier_flags</key>
+			<real>0</real>
+		</dict>
 		<key>Default Application</key>
 		<dict>
 			<key>key_code</key>
@@ -231,6 +238,13 @@
 	</dict>
 	<key>PlayerStopHotKeys</key>
 	<dict>
+		<key>VLC</key>
+		<dict>
+			<key>key_code</key>
+			<integer>47</integer>
+			<key>modifier_flags</key>
+			<real>1048576</real>
+		</dict>
 		<key>Default Application</key>
 		<dict>
 			<key>key_code</key>
@@ -241,27 +255,27 @@
 	</dict>
 	<key>PlayerNextHotKeys</key>
 	<dict>
-	    <key>Safari</key>
-                        		<dict>
-                        			<key>key_code</key>
-                        			<integer>45</integer>
-                        			<key>modifier_flags</key>
-                        			<integer>131072</integer>
-                        		</dict>
-                        		<key>Opera</key>
-                        		<dict>
-                        			<key>key_code</key>
-                        			<integer>45</integer>
-                        			<key>modifier_flags</key>
-                        			<real>131072</real>
-                        		</dict>
-                        		<key>Google Chrome</key>
-                        		<dict>
-                        			<key>key_code</key>
-                        			<integer>45</integer>
-                        			<key>modifier_flags</key>
-                        			<real>131072</real>
-                        		</dict>
+		<key>Safari</key>
+		<dict>
+			<key>key_code</key>
+			<integer>45</integer>
+			<key>modifier_flags</key>
+			<integer>131072</integer>
+		</dict>
+		<key>Opera</key>
+		<dict>
+			<key>key_code</key>
+			<integer>45</integer>
+			<key>modifier_flags</key>
+			<real>131072</real>
+		</dict>
+		<key>Google Chrome</key>
+		<dict>
+			<key>key_code</key>
+			<integer>45</integer>
+			<key>modifier_flags</key>
+			<real>131072</real>
+		</dict>
 		<key>VLC</key>
 		<dict>
 			<key>key_code</key>
@@ -279,27 +293,27 @@
 	</dict>
 	<key>PlayerPreviousHotKeys</key>
 	<dict>
-	 <key>Safari</key>
-                            		<dict>
-                            			<key>key_code</key>
-                            			<integer>35</integer>
-                            			<key>modifier_flags</key>
-                            			<integer>131072</integer>
-                            		</dict>
-                            		<key>Opera</key>
-                            		<dict>
-                            			<key>key_code</key>
-                            			<integer>35</integer>
-                            			<key>modifier_flags</key>
-                            			<real>131072</real>
-                            		</dict>
-                            		<key>Google Chrome</key>
-                            		<dict>
-                            			<key>key_code</key>
-                            			<integer>35</integer>
-                            			<key>modifier_flags</key>
-                            			<real>131072</real>
-                            		</dict>
+		<key>Safari</key>
+		<dict>
+			<key>key_code</key>
+			<integer>35</integer>
+			<key>modifier_flags</key>
+			<integer>131072</integer>
+		</dict>
+		<key>Opera</key>
+		<dict>
+			<key>key_code</key>
+			<integer>35</integer>
+			<key>modifier_flags</key>
+			<real>131072</real>
+		</dict>
+		<key>Google Chrome</key>
+		<dict>
+			<key>key_code</key>
+			<integer>35</integer>
+			<key>modifier_flags</key>
+			<real>131072</real>
+		</dict>
 		<key>VLC</key>
 		<dict>
 			<key>key_code</key>
@@ -317,27 +331,27 @@
 	</dict>
 	<key>PlayerStepForwardHotKeys</key>
 	<dict>
-	<key>Safari</key>
-                                		<dict>
-                                			<key>key_code</key>
-                                			<integer>37</integer>
-                                			<key>modifier_flags</key>
-                                			<integer>0</integer>
-                                		</dict>
-                                		<key>Opera</key>
-                                		<dict>
-                                			<key>key_code</key>
-                                			<integer>37</integer>
-                                			<key>modifier_flags</key>
-                                			<real>0</real>
-                                		</dict>
-                                		<key>Google Chrome</key>
-                                		<dict>
-                                			<key>key_code</key>
-                                			<integer>37</integer>
-                                			<key>modifier_flags</key>
-                                			<real>0</real>
-                                		</dict>
+		<key>Safari</key>
+		<dict>
+			<key>key_code</key>
+			<integer>37</integer>
+			<key>modifier_flags</key>
+			<integer>0</integer>
+		</dict>
+		<key>Opera</key>
+		<dict>
+			<key>key_code</key>
+			<integer>37</integer>
+			<key>modifier_flags</key>
+			<real>0</real>
+		</dict>
+		<key>Google Chrome</key>
+		<dict>
+			<key>key_code</key>
+			<integer>37</integer>
+			<key>modifier_flags</key>
+			<real>0</real>
+		</dict>
 		<key>VLC</key>
 		<dict>
 			<key>key_code</key>
@@ -355,27 +369,27 @@
 	</dict>
 	<key>PlayerStepBackwardHotKeys</key>
 	<dict>
-	<key>Safari</key>
-                                    		<dict>
-                                    			<key>key_code</key>
-                                    			<integer>38</integer>
-                                    			<key>modifier_flags</key>
-                                    			<integer>0</integer>
-                                    		</dict>
-                                    		<key>Opera</key>
-                                    		<dict>
-                                    			<key>key_code</key>
-                                    			<integer>38</integer>
-                                    			<key>modifier_flags</key>
-                                    			<real>0</real>
-                                    		</dict>
-                                    		<key>Google Chrome</key>
-                                    		<dict>
-                                    			<key>key_code</key>
-                                    			<integer>38</integer>
-                                    			<key>modifier_flags</key>
-                                    			<real>0</real>
-                                    		</dict>
+		<key>Safari</key>
+		<dict>
+			<key>key_code</key>
+			<integer>38</integer>
+			<key>modifier_flags</key>
+			<integer>0</integer>
+		</dict>
+		<key>Opera</key>
+		<dict>
+			<key>key_code</key>
+			<integer>38</integer>
+			<key>modifier_flags</key>
+			<real>0</real>
+		</dict>
+		<key>Google Chrome</key>
+		<dict>
+			<key>key_code</key>
+			<integer>38</integer>
+			<key>modifier_flags</key>
+			<real>0</real>
+		</dict>
 		<key>VLC</key>
 		<dict>
 			<key>key_code</key>
@@ -393,6 +407,13 @@
 	</dict>
 	<key>PlayerLoopHotKeys</key>
 	<dict>
+		<key>VLC</key>
+		<dict>
+			<key>key_code</key>
+			<integer>37</integer>
+			<key>modifier_flags</key>
+			<integer>1179648</integer>
+		</dict>
 		<key>Default Application</key>
 		<dict>
 			<key>key_code</key>
@@ -403,27 +424,27 @@
 	</dict>
 	<key>PlayerVolumeUpHotKeys</key>
 	<dict>
-	<key>Safari</key>
-                                        		<dict>
-                                        			<key>key_code</key>
-                                        			<integer>126</integer>
-                                        			<key>modifier_flags</key>
-                                        			<integer>0</integer>
-                                        		</dict>
-                                        		<key>Opera</key>
-                                        		<dict>
-                                        			<key>key_code</key>
-                                        			<integer>126</integer>
-                                        			<key>modifier_flags</key>
-                                        			<real>0</real>
-                                        		</dict>
-                                        		<key>Google Chrome</key>
-                                        		<dict>
-                                        			<key>key_code</key>
-                                        			<integer>126</integer>
-                                        			<key>modifier_flags</key>
-                                        			<real>0</real>
-                                        		</dict>
+		<key>Safari</key>
+		<dict>
+			<key>key_code</key>
+			<integer>126</integer>
+			<key>modifier_flags</key>
+			<integer>0</integer>
+		</dict>
+		<key>Opera</key>
+		<dict>
+			<key>key_code</key>
+			<integer>126</integer>
+			<key>modifier_flags</key>
+			<real>0</real>
+		</dict>
+		<key>Google Chrome</key>
+		<dict>
+			<key>key_code</key>
+			<integer>126</integer>
+			<key>modifier_flags</key>
+			<real>0</real>
+		</dict>
 		<key>Default Application</key>
 		<dict>
 			<key>key_code</key>
@@ -434,27 +455,27 @@
 	</dict>
 	<key>PlayerVolumeDownHotKeys</key>
 	<dict>
-	<key>Safari</key>
-                                        		<dict>
-                                        			<key>key_code</key>
-                                        			<integer>125</integer>
-                                        			<key>modifier_flags</key>
-                                        			<integer>0</integer>
-                                        		</dict>
-                                        		<key>Opera</key>
-                                        		<dict>
-                                        			<key>key_code</key>
-                                        			<integer>125</integer>
-                                        			<key>modifier_flags</key>
-                                        			<real>0</real>
-                                        		</dict>
-                                        		<key>Google Chrome</key>
-                                        		<dict>
-                                        			<key>key_code</key>
-                                        			<integer>125</integer>
-                                        			<key>modifier_flags</key>
-                                        			<real>0</real>
-                                        		</dict>
+		<key>Safari</key>
+		<dict>
+			<key>key_code</key>
+			<integer>125</integer>
+			<key>modifier_flags</key>
+			<integer>0</integer>
+		</dict>
+		<key>Opera</key>
+		<dict>
+			<key>key_code</key>
+			<integer>125</integer>
+			<key>modifier_flags</key>
+			<real>0</real>
+		</dict>
+		<key>Google Chrome</key>
+		<dict>
+			<key>key_code</key>
+			<integer>125</integer>
+			<key>modifier_flags</key>
+			<real>0</real>
+		</dict>
 		<key>Default Application</key>
 		<dict>
 			<key>key_code</key>
@@ -465,27 +486,27 @@
 	</dict>
 	<key>PlayerMuteHotKeys</key>
 	<dict>
-	<key>Safari</key>
-                                        		<dict>
-                                        			<key>key_code</key>
-                                        			<integer>46</integer>
-                                        			<key>modifier_flags</key>
-                                        			<integer>0</integer>
-                                        		</dict>
-                                        		<key>Opera</key>
-                                        		<dict>
-                                        			<key>key_code</key>
-                                        			<integer>46</integer>
-                                        			<key>modifier_flags</key>
-                                        			<real>0</real>
-                                        		</dict>
-                                        		<key>Google Chrome</key>
-                                        		<dict>
-                                        			<key>key_code</key>
-                                        			<integer>46</integer>
-                                        			<key>modifier_flags</key>
-                                        			<real>0</real>
-                                        		</dict>
+		<key>Safari</key>
+		<dict>
+			<key>key_code</key>
+			<integer>46</integer>
+			<key>modifier_flags</key>
+			<integer>0</integer>
+		</dict>
+		<key>Opera</key>
+		<dict>
+			<key>key_code</key>
+			<integer>46</integer>
+			<key>modifier_flags</key>
+			<real>0</real>
+		</dict>
+		<key>Google Chrome</key>
+		<dict>
+			<key>key_code</key>
+			<integer>46</integer>
+			<key>modifier_flags</key>
+			<real>0</real>
+		</dict>
 		<key>VLC</key>
 		<dict>
 			<key>key_code</key>
@@ -496,44 +517,44 @@
 	</dict>
 	<key>PlayerShuffleHotKeys</key>
 	<dict>
-        <key>VLC</key>
-        <dict>
-             <key>key_code</key>
-             <integer>6</integer>
-             <key>modifier_flags</key>
-             <integer>1048576</integer>
-        </dict>
+		<key>VLC</key>
+		<dict>
+			<key>key_code</key>
+			<integer>6</integer>
+			<key>modifier_flags</key>
+			<integer>1048576</integer>
+		</dict>
 	</dict>
 	<key>PlayerSubtitlesHotKeys</key>
 	<dict>
-	    <key>Safari</key>
-	    <dict>
-            <key>key_code</key>
-            <integer>8</integer>
-            <key>modifier_flags</key>
-            <integer>0</integer>
-        </dict>
-        <key>Opera</key>
-        <dict>
-             <key>key_code</key>
-             <integer>8</integer>
-             <key>modifier_flags</key>
-             <integer>0</integer>
-        </dict>
-	    <key>Google Chrome</key>
-	    <dict>
-            <key>key_code</key>
-            <integer>8</integer>
-            <key>modifier_flags</key>
-            <integer>0</integer>
-        </dict>
-        <key>VLC</key>
-        <dict>
-             <key>key_code</key>
-             <integer>1</integer>
-             <key>modifier_flags</key>
-             <integer>0</integer>
-        </dict>
+		<key>Safari</key>
+		<dict>
+			<key>key_code</key>
+			<integer>8</integer>
+			<key>modifier_flags</key>
+			<integer>0</integer>
+		</dict>
+		<key>Opera</key>
+		<dict>
+			<key>key_code</key>
+			<integer>8</integer>
+			<key>modifier_flags</key>
+			<integer>0</integer>
+		</dict>
+		<key>Google Chrome</key>
+		<dict>
+			<key>key_code</key>
+			<integer>8</integer>
+			<key>modifier_flags</key>
+			<integer>0</integer>
+		</dict>
+		<key>VLC</key>
+		<dict>
+			<key>key_code</key>
+			<integer>1</integer>
+			<key>modifier_flags</key>
+			<integer>0</integer>
+		</dict>
 	</dict>
 	<key>BrowserNewTabHotKeys</key>
 	<dict>
